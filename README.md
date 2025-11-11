@@ -32,7 +32,7 @@ This project simulates a network environment with:
 
 ## 🗺️ Network Topology
 
-![Network Topology](topology.png)
+![Network Topology](assets/topology.png)
 
 ```
                 40.40.40.1      40.40.40.2      50.50.50.1      50.50.50.2
